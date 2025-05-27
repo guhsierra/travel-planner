@@ -47,13 +47,13 @@ npm run dev
 ```
 
 ---
-## Imagem da Interface
-
-![preview](Imagens/travelplanner/travelplanne.png)
----
 
 ## Descrição
 
 Projeto desenvolvido durante a Workintech na Unicesumar, como exercicío da palestra sobre Inteligencia Articficial da Agencia LiveSEO.
 Código 100% escrito por IA, com objetivo de integração entre IA e automação Web. 
 
+---
+
+## 👨‍💻 Autor
+Desenvolvido por @guhsierra com 💻, ☕ e 🧠
